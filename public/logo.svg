@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="D:\Adobe illu\My logo\my logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70911897"
+     inkscape:cx="454.7897"
+     inkscape:cy="613.43727"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="-11"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient28218"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop28216" />
+    </linearGradient>
+    <rect
+       x="62.048827"
+       y="225.6321"
+       width="668.43509"
+       height="586.64345"
+       id="rect15257" />
+    <rect
+       x="86.022237"
+       y="304.60333"
+       width="628.94947"
+       height="571.13125"
+       id="rect5907" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28218"
+       id="linearGradient28220"
+       x1="81.580078"
+       y1="335.3938"
+       x2="192.81055"
+       y2="335.3938"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.72926348,0,0,0.77520791,15.352404,-171.84639)"
+       id="text5905"
+       style="font-style:normal;font-weight:normal;font-size:200px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5907);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="86.021484"
+         y="487.06958"
+         id="tspan32789">D</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.75433111,0,0,0.77513676,-38.929353,-110.6)"
+       id="text15255"
+       style="font-style:normal;font-weight:normal;font-size:200px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15257);fill:#ea1720;fill-opacity:1;stroke:none"><tspan
+         x="62.048828"
+         y="408.09888"
+         id="tspan32791">H</tspan></text>
+  </g>
+</svg>
