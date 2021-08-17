@@ -32,12 +32,12 @@ body{
     left: 10px;
 }
 
+
 .App{
     display: flex;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
-    padding: 16px;
 }
 
 .calculator{
@@ -71,12 +71,13 @@ body{
     background-color: var(--red);
     border: none;
     outline: none;
-    padding: 30px;
+    padding: 20px;
     cursor: pointer;
     transition: .4s;
     flex: 1 1 0%;
     color: var(--white);
-    font-weight: 700;
+    font-weight: bolder;
+    font-size: 15px;
 }
 
 .digits{
@@ -94,6 +95,8 @@ body{
     transition: .4s;
     flex: 1 1 33.333%;
     max-width: 33.333%;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 button:hover{
