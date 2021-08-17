@@ -48,7 +48,11 @@ body{
     border-radius: 10px;
     box-shadow: 0px 2px 65px rgba(0, 0, 0, .45);
 }
-
+@media only screen and (max-width: 400px) {
+    .calculator{
+        width: 90%;
+    }  
+}
 .display{
     padding: 20px;
     text-align: right;
@@ -57,6 +61,7 @@ body{
     font-size: 25px;
     font-weight: 300;
 }
+
 
 .display span{
     font-size: 16px;
