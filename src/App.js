@@ -36,9 +36,10 @@ function App() {
       setResult(eval(calc + value).toString());
     }
   };
-
+    
   const evalCalc = () => {
-    if (calc == "") {
+    
+    if (calc == "" || opr.includes(calc.slice(-1))) {
       return;
     }
     setCalc(eval(calc).toString());
@@ -51,12 +52,20 @@ function App() {
     const value = calc.slice(0, -1);
 
     setCalc(value);
+    
+    if(!opr.includes(value.slice(-1)) && value.length != 0){
+      setResult(eval(value).toString());
+    }
+    else if(value.length == 0){
+      setResult("");
+    }
   };
   const deleteAll = () => {
     if (calc == "") {
       return;
     }
     setCalc("");
+    setResult("");
   };
 
   return (
